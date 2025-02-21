@@ -1,0 +1,355 @@
+# A list of all CD Baby primary  genres and secondary genres
+Avant Garde:
+  - Electro-Acoustic
+  - Electronic Avant-Garde
+  - Experimental
+  - Free Improvisation
+  - Modern Composition
+  - Psychedelia
+  - Sound Art
+
+Blues:
+  - Acoustic Blues
+  - Blues-Rock
+  - Blues Vocals
+  - Electric Blues
+  - Folk-Blues
+  - Funky Blues
+  - Guitar Blues
+  - Jazzy Blues
+  - Rockin' Blues
+
+Brazilian:
+  - MPB
+
+Christian:
+
+Classical:
+  - Bach
+  - Baroque
+  - Chamber Music
+  - Contemporary
+  - Film Music
+  - Orchestral
+  - Piano solo
+  - Romantic Era
+  - Traditional
+
+Country:
+  - Alt-Country
+  - Americana
+  - Bluegrass
+  - Contemporary Country
+  - Country Blues
+  - Country Folk
+  - Country Gospel
+  - Country Pop
+  - Country Rock
+  - Honky Tonk
+  - Modern Country
+  - Outlaw Country
+  - Traditional Country
+
+Easy Listening:
+  - Adult contemporary
+  - American Popular Song
+  - Background Music
+  - Ballads
+  - Easy Pop
+  - Instrumental Pop
+  - Lounge
+  - Love Songs
+  - Mood Music
+  - Nostalgia
+  - Orchestral
+  - Soft Rock
+
+Electronic:
+  - Alternative Dance
+  - Ambient
+  - Chill out
+  - Dance
+  - Deep House
+  - Down Tempo
+  - Dubstep
+  - Electro
+  - Electro House
+  - Electronica
+  - Experimental
+  - House
+  - IDM
+  - Industrial
+  - Pop Crossover
+  - Soundscapes
+  - Synthpop
+  - Techno
+  - Trance
+  - Trip Hop
+  - Virtual Orchestra
+
+Featuring:
+  - Guitar
+
+Folk:
+  - Alternative Folk
+  - Appalachian Folk
+  - Celtic Folk
+  - Fingerstyle
+  - Folk-Jazz
+  - Folk-Rock
+  - Folk Blues
+  - Folk Pop
+  - Gentle
+  - Modern Folk
+  - Progressive Folk
+  - Singer/Songwriter
+  - Traditional Folk
+
+Hip-Hop/Rap:
+  - Alternative Hip Hop
+  - Beat Tape
+  - Dirty South
+  - East Coast
+  - G-Funk
+  - Gangsta Rap
+  - Hardcore Rap
+  - Hip Hop
+  - Instrumental Hip-Hop
+  - Jazz-Rap
+  - Latin Rap
+  - Old-School Rap
+  - Party Rap
+  - Political Rap
+  - Pop-Rap
+  - Rap
+  - Reggaeton
+  - Southern Style
+  - Spiritual Rap
+  - Street Rap
+  - Underground Rap
+  - West Coast Rap
+
+Holiday:
+  - Easy Listening
+  - Pop
+  - Spiritual
+
+Instrumental:
+
+Jazz:
+  - Contemporary Jazz
+  - Cool Jazz
+  - Crossover Jazz
+  - Jazz-Funk
+  - Jazz-Pop
+  - Jazz-Rock
+  - Jazz Fusion
+  - Jazz Vocals
+  - Latin Jazz
+  - Mainstream Jazz
+  - Modern Creative Jazz
+  - Piano Jazz
+  - Smooth Jazz
+  - Soul-Jazz
+  - World Fusion
+
+Kids/Family:
+  - Children's Pop
+  - Educational
+  - General Children's Music
+  - Kid Friendly
+  - Lullabies
+  - Sing-Along/Interactive
+
+Latin:
+  - Banda
+  - Corrido
+  - Cumbia
+  - General
+  - Latin Folk
+  - Latin Jazz
+  - Latin Pop
+  - Latin Rap
+  - Norteño
+  - Ranchera
+  - Salsa
+
+Metal/Punk:
+  - Alternative Metal
+  - American Punk
+  - Black Metal
+  - Death Metal
+  - Doom/Stoner Metal
+  - Garage Punk
+  - Hardcore Punk
+  - Heavy Metal
+  - Instrumental Metal
+  - Metalcore
+  - Post-Hardcore
+  - Post-Punk
+  - Power Metal
+  - Progressive Metal
+  - Thrash/Speed Metal
+
+Mood:
+  - Dreamy
+  - Fun
+  - Party Music
+  - Upbeat
+
+New Age:
+  - Ambient
+  - Contemporary Instrumental
+  - Healing
+  - Meditation
+  - Neo-Classical
+  - New Age
+  - Relaxation
+  - Solo Instrumental
+  - Spiritual
+
+Pop:
+  - 60's Pop
+  - 70's Pop
+  - 80's Pop
+  - 90's Pop
+  - Ambient Pop
+  - Beatles-pop
+  - British Pop
+  - California Pop
+  - Dream Pop
+  - Folky Pop
+  - Garage Pop
+  - New Romantic
+  - New Wave
+  - Party Pop
+  - Piano
+  - Pop
+  - Pop/Rock
+  - Pop Underground
+  - Power Pop
+  - Psychedelic Pop
+  - Quirky
+  - Synth Pop
+  - Today's Top 40
+  - with Electronic Production
+  - with Live-band Production
+
+R&B/Soul:
+  - Contemporary R&B/Soul
+  - Funk
+  - Neo-Soul
+  - R&B Pop Crossover
+  - R&B Rap mix
+  - Rhythm & Blues
+  - Smooth Soul
+  - Soul
+  - Traditional R&B
+  - Urban
+
+Reggae:
+  - Dancehall
+  - Dub
+  - Pop-Reggae
+  - Reggae rock
+  - Roots Reggae
+  - Ska
+  - Smooth Reggae
+
+Rock:
+  - 60's Rock
+  - 70's Rock
+  - 80's Rock
+  - 90's Rock
+  - Acoustic
+  - Adult Alternative Pop/Rock
+  - Adult Contemporary
+  - Album Rock
+  - Americana
+  - American Underground
+  - Arena Rock
+  - Classic Rock
+  - College Rock
+  - Comedy Rock
+  - Country-Rock
+  - Emo
+  - Experimental Rock
+  - Folk Rock
+  - Funk Rock
+  - Garage Rock
+  - Goth
+  - Grunge
+  - Hard Rock
+  - Industrial Rock
+  - Instrumental Rock
+  - Jam-band
+  - Latin Rock
+  - Lo-Fi
+  - Modern Rock
+  - Post-Rock/Experimental
+  - Progressive Rock
+  - Psychedelic
+  - Punk
+  - Punk-Pop
+  - Retro-Rock
+  - Rock & Roll
+  - Rockabilly
+  - Rock en Español
+  - Roots Rock
+  - Shoegaze
+  - Soft Rock
+  - Southern Rock
+  - Space Rock
+  - Surf Rock
+
+Solo Artists:
+  - Solo Female Artist
+  - Solo Male Artist
+
+Spiritual:
+  - Christian Rap
+  - Christian Rock
+  - Contemporary Christian
+  - Contemporary Gospel
+  - Country Gospel
+  - Hymns
+  - Inspirational
+  - Instrumental Gospel
+  - Mantras
+  - Praise & Worship
+  - Southern Gospel
+  - Spirituals
+  - Traditional Gospel
+
+Spoken Word:
+  - Audiobook
+  - Comedy
+  - Inspirational
+  - Poetry
+  - With Music
+
+Type:
+  - Lyrical
+  - Vocal
+
+Urban/R&B:
+  - Contemporary urban
+  - Funk
+  - Neo-Soul
+  - R&B Pop Crossover
+  - R&B Rap mix
+  - Rhythm & Blues
+  - Soul
+  - Urban
+
+World:
+  - African
+  - Afro-Beat
+  - Caribbean
+  - Celtic
+  - Folklore
+  - Native American
+  - South American
+  - World Beat
+  - World Fusion
+  - World Traditions

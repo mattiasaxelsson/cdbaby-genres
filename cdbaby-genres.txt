@@ -1,0 +1,300 @@
+Avant Garde: Electro-Acoustic
+Avant Garde: Electronic Avant-Garde
+Avant Garde: Experimental
+Avant Garde: Free Improvisation
+Avant Garde: Modern Composition
+Avant Garde: Psychedelia
+Avant Garde: Sound Art
+Blues: Acoustic Blues
+Blues: Blues-Rock
+Blues: Blues Vocals
+Blues: Electric Blues
+Blues: Folk-Blues
+Blues: Funky Blues
+Blues: Guitar Blues
+Blues: Jazzy Blues
+Blues: Rockin' Blues
+Brazilian: MPB
+Christian
+Classical: Bach
+Classical: Baroque
+Classical: Chamber Music
+Classical: Contemporary
+Classical: Film Music
+Classical: Orchestral
+Classical: Piano solo
+Classical: Romantic Era
+Classical: Traditional
+Country: Alt-Country
+Country: Americana
+Country: Bluegrass
+Country: Contemporary Country
+Country: Country Blues
+Country: Country Folk
+Country: Country Gospel
+Country: Country Pop
+Country: Country Rock
+Country: Honky Tonk
+Country: Modern Country
+Country: Outlaw Country
+Country: Traditional Country
+Easy Listening: Adult contemporary
+Easy Listening: American Popular Song
+Easy Listening: Background Music
+Easy Listening: Ballads
+Easy Listening: Easy Pop
+Easy Listening: Instrumental Pop
+Easy Listening: Lounge
+Easy Listening: Love Songs
+Easy Listening: Mood Music
+Easy Listening: Nostalgia
+Easy Listening: Orchestral
+Easy Listening: Soft Rock
+Electronic: Alternative Dance
+Electronic: Ambient
+Electronic: Chill out
+Electronic: Dance
+Electronic: Deep House
+Electronic: Down Tempo
+Electronic: Dubstep
+Electronic: Electro
+Electronic: Electro House
+Electronic: Electronica
+Electronic: Experimental
+Electronic: House
+Electronic: IDM
+Electronic: Industrial
+Electronic: Pop Crossover
+Electronic: Soundscapes
+Electronic: Synthpop
+Electronic: Techno
+Electronic: Trance
+Electronic: Trip Hop
+Electronic: Virtual Orchestra
+Featuring Guitar
+Folk: Alternative Folk
+Folk: Appalachian Folk
+Folk: Celtic Folk
+Folk: Fingerstyle
+Folk: Folk-Jazz
+Folk: Folk-Rock
+Folk: Folk Blues
+Folk: Folk Pop
+Folk: Gentle
+Folk: Modern Folk
+Folk: Progressive Folk
+Folk: Singer/Songwriter
+Folk: Traditional Folk
+Hip-Hop/Rap: Alternative Hip Hop
+Hip-Hop/Rap: Beat Tape
+Hip-Hop/Rap: Dirty South
+Hip-Hop/Rap: East Coast
+Hip-Hop/Rap: G-Funk
+Hip-Hop/Rap: Gangsta Rap
+Hip-Hop/Rap: Hardcore Rap
+Hip-Hop/Rap: Hip Hop
+Hip-Hop/Rap: Instrumental Hip-Hop
+Hip-Hop/Rap: Jazz-Rap
+Hip-Hop/Rap: Latin Rap
+Hip-Hop/Rap: Old-School Rap
+Hip-Hop/Rap: Party Rap
+Hip-Hop/Rap: Political Rap
+Hip-Hop/Rap: Pop-Rap
+Hip-Hop/Rap: Rap
+Hip-Hop/Rap: Reggaeton
+Hip-Hop/Rap: Southern Style
+Hip-Hop/Rap: Spiritual Rap
+Hip-Hop/Rap: Street Rap
+Hip-Hop/Rap: Underground Rap
+Hip-Hop/Rap: West Coast Rap
+Holiday: Easy Listening
+Holiday: Pop
+Holiday: Spiritual
+Instrumental
+Jazz: Contemporary Jazz
+Jazz: Cool Jazz
+Jazz: Crossover Jazz
+Jazz: Jazz-Funk
+Jazz: Jazz-Pop
+Jazz: Jazz-Rock
+Jazz: Jazz Fusion
+Jazz: Jazz Vocals
+Jazz: Latin Jazz
+Jazz: Mainstream Jazz
+Jazz: Modern Creative Jazz
+Jazz: Piano Jazz
+Jazz: Smooth Jazz
+Jazz: Soul-Jazz
+Jazz: World Fusion
+Kids/Family: Children's Pop
+Kids/Family: Educational
+Kids/Family: General Children's Music
+Kids/Family: Kid Friendly
+Kids/Family: Lullabies
+Kids/Family: Sing-Along/Interactive
+Latin: Banda
+Latin: Corrido
+Latin: Cumbia
+Latin: General
+Latin: Latin Folk
+Latin: Latin Jazz
+Latin: Latin Pop
+Latin: Latin Rap
+Latin: Norteño
+Latin: Ranchera
+Latin: Salsa
+Metal/Punk: Alternative Metal
+Metal/Punk: American Punk
+Metal/Punk: Black Metal
+Metal/Punk: Death Metal
+Metal/Punk: Doom/Stoner Metal
+Metal/Punk: Garage Punk
+Metal/Punk: Hardcore Punk
+Metal/Punk: Heavy Metal
+Metal/Punk: Instrumental Metal
+Metal/Punk: Metalcore
+Metal/Punk: Post-Hardcore
+Metal/Punk: Post-Punk
+Metal/Punk: Power Metal
+Metal/Punk: Progressive Metal
+Metal/Punk: Thrash/Speed Metal
+Mood: Dreamy
+Mood: Fun
+Mood: Party Music
+Mood: Upbeat
+New Age: Ambient
+New Age: Contemporary Instrumental
+New Age: Healing
+New Age: Meditation
+New Age: Neo-Classical
+New Age: New Age
+New Age: Relaxation
+New Age: Solo Instrumental
+New Age: Spiritual
+Pop: 60's Pop
+Pop: 70's Pop
+Pop: 80's Pop
+Pop: 90's Pop
+Pop: Ambient Pop
+Pop: Beatles-pop
+Pop: British Pop
+Pop: California Pop
+Pop: Dream Pop
+Pop: Folky Pop
+Pop: Garage Pop
+Pop: New Romantic
+Pop: New Wave
+Pop: Party Pop
+Pop: Piano
+Pop: Pop
+Pop: Pop/Rock
+Pop: Pop Underground
+Pop: Power Pop
+Pop: Psychedelic Pop
+Pop: Quirky
+Pop: Synth Pop
+Pop: Today's Top 40
+Pop: with Electronic Production
+Pop: with Live-band Production
+R&B/Soul: Contemporary R&B/Soul
+R&B/Soul: Funk
+R&B/Soul: Neo-Soul
+R&B/Soul: R&B Pop Crossover
+R&B/Soul: R&B Rap mix
+R&B/Soul: Rhythm & Blues
+R&B/Soul: Smooth Soul
+R&B/Soul: Soul
+R&B/Soul: Traditional R&B
+R&B/Soul: Urban
+Reggae: Dancehall
+Reggae: Dub
+Reggae: Pop-Reggae
+Reggae: Reggae rock
+Reggae: Roots Reggae
+Reggae: Ska
+Reggae: Smooth Reggae
+Rock: 60's Rock
+Rock: 70's Rock
+Rock: 80's Rock
+Rock: 90's Rock
+Rock: Acoustic
+Rock: Adult Alternative Pop/Rock
+Rock: Adult Contemporary
+Rock: Album Rock
+Rock: Americana
+Rock: American Underground
+Rock: Arena Rock
+Rock: Classic Rock
+Rock: College Rock
+Rock: Comedy Rock
+Rock: Country-Rock
+Rock: Emo
+Rock: Experimental Rock
+Rock: Folk Rock
+Rock: Funk Rock
+Rock: Garage Rock
+Rock: Goth
+Rock: Grunge
+Rock: Hard Rock
+Rock: Industrial Rock
+Rock: Instrumental Rock
+Rock: Jam-band
+Rock: Latin Rock
+Rock: Lo-Fi
+Rock: Modern Rock
+Rock: Post-Rock/Experimental
+Rock: Progressive Rock
+Rock: Psychedelic
+Rock: Punk
+Rock: Punk-Pop
+Rock: Retro-Rock
+Rock: Rock & Roll
+Rock: Rockabilly
+Rock: Rock en Español
+Rock: Roots Rock
+Rock: Shoegaze
+Rock: Soft Rock
+Rock: Southern Rock
+Rock: Space Rock
+Rock: Surf Rock
+Solo Female Artist
+Solo Male Artist
+Spiritual
+Spiritual: Christian Rap
+Spiritual: Christian Rock
+Spiritual: Contemporary Christian
+Spiritual: Contemporary Gospel
+Spiritual: Country Gospel
+Spiritual: Hymns
+Spiritual: Inspirational
+Spiritual: Instrumental Gospel
+Spiritual: Mantras
+Spiritual: Praise & Worship
+Spiritual: Southern Gospel
+Spiritual: Spirituals
+Spiritual: Traditional Gospel
+Spoken Word: Audiobook
+Spoken Word: Comedy
+Spoken Word: Inspirational
+Spoken Word: Poetry
+Spoken Word: With Music
+Type: Lyrical
+Type: Vocal
+Urban/R&B: Contemporary urban
+Urban/R&B: Funk
+Urban/R&B: Neo-Soul
+Urban/R&B: R&B Pop Crossover
+Urban/R&B: R&B Rap mix
+Urban/R&B: Rhythm & Blues
+Urban/R&B: Soul
+Urban/R&B: Urban
+World: African
+World: Afro-Beat
+World: Caribbean
+World: Celtic
+World: Folklore
+World: Native American
+World: South American
+World: World Beat
+World: World Fusion
+World: World Traditions
